@@ -34,16 +34,15 @@ Installation
 Install dependencies
 
 
-bash   pip install -r requirements.txt
+   pip install -r requirements.txt
 
 
 Run the app
 
+   streamlit run app.py
 
-bash   streamlit run app.py
 
 
-Open your browser at http://localhost:8501
 
 
 Usage
